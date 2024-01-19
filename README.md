@@ -1,5 +1,4 @@
 Hi, I’m @jinckzz
-I’m interested in clearing gsoc
 I’m currently learning c++
 
 
